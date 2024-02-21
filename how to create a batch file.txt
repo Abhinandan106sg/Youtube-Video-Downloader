@@ -1,0 +1,11 @@
+Steps to create a batch file that can run your code on windows.
+1) Create a .txt file
+
+2) Copy paste these below lines in it .
+@echo off
+"path to your python.exe" "path to your code.py"
+pause
+
+3) After entering respective paths save the file as .bat extension. 
+
+4) You can double-click on the .bat file to run your code in terminal.
