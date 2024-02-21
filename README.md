@@ -5,7 +5,7 @@ Now you can track your download progress in the terminal using a progress bar pr
 
 ## Steps to Create this Youtube Downloader in your PC
 
-### 1) Download Python from official website and make sure you have installed pip
+### 1) Download Python 3.x from official website and make sure you have installed pip
 
 ### 2) Create a local folder for these files and download requirements.txt there.
 
